@@ -1,7 +1,7 @@
 # DataPhilly Monthly Speaker Events in 2020
 Links to slides and other sites from Monthly Speaker Events hosted by DataPhilly in 2020
 
-<img src="EventTitleSponsors_Aug302020.png?raw=true"/>
+<img src="DataPhillyLogo_Final-01.png?raw=true"/>
 
 ### April 2020
 
