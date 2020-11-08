@@ -4,6 +4,10 @@ Links to slides and other sites from Monthly Speaker Events hosted by DataPhilly
 <img src="DataPhillyLogo_Final-01.png?raw=true"/>
 
 ### April 2020
+   * [Video Recording of Event]()
+   * **April 2020 - CHIME (COVID-19 Hospital Impact Model for Epidemics)**
+      * Speaker: [Michael Becker](https://www.linkedin.com/in/mdbecker/)
+      * Detail: As we prepare for the additional demands that the COVID-19 outbreak will place on our hospital system, our operational leaders need up-to-date projections of what additional resources will be required. Informed estimates of how many patients will need hospitalization, ICU beds, and mechanical ventilation over the coming days and weeks will be crucial inputs to readiness responses and mitigation strategies. To this end, the Predictive Healthcare team at Penn Medicine has developed a tool that leverages SIR modeling to assist hospitals with capacity planning around COVID-19. Michael will discuss the project, its impact so far, and how community members, like DataPhilly, can help with the open-source effort.
 
 ### May 2020
    * [Video Recording of Event](https://www.youtube.com/watch?v=3CgIeGksSvg)
