@@ -6,6 +6,10 @@ Links to slides and other sites from Monthly Speaker Events hosted by DataPhilly
 ### April 2020
 
 ### May 2020
+   * [Video Recording of Event](https://www.youtube.com/watch?v=3CgIeGksSvg)
+   * **Data Analysis is Blitz Chess: From Live-Coding to Developing Siuba in Python**
+      * Speaker: [Michael Chow](https://www.linkedin.com/in/michael-a-chow/)
+      * Detail: The internet is brimming with data analysis tutorials and strong opinions—but seeing an expert analyze data for the first time is extremely rare. In this talk, I’ll review how pair programming, live coding, and translating data analysis screencasts by a skilled R user into Python, led me to develop the library siuba. Siuba is a port of the popular R library dplyr, and can run analyses against a SQL database or pandas DataFrame. I’ll show how with a few key functions, anyone can start on quick, scrappy data analyses.
 
 ### June 2020
    * [Video Recording of Event](https://youtu.be/ruO2TwmaKDU)
