@@ -8,6 +8,16 @@ Links to slides and other sites from Monthly Speaker Events hosted by DataPhilly
 ### May 2020
 
 ### June 2020
+   * [Video Recording of Event](https://youtu.be/ruO2TwmaKDU)
+   * **Dirichlet Process for Built Environments**
+      * Speaker: [Adam Peterson](https://www.linkedin.com/in/adam-peterson-8b456062/)
+      * Detail: The presence of specific built environment resources such as food vendors or recreation centers may impact diet and physical activity, thereby affecting the subsequent risk of important health conditions like cardiovascular disease. Of particular interest to investigators are types of spatial patterns that describe the availability of a particular resource near a location where subjects frequently spend their time, residential neighborhoods or schools, for example. To describe these types of spatial patterns, we model the spatial distribution of fast food restaurants around each school as a one-dimensional Inhomogeneous Poisson Process (IPP). We cluster the spatially varying intensities of the IPPs using the Nested Dirichlet Process which allows us to group schools into environment types. Our modeling approach is non-parametric in that the number of clusters is not chosen a priori: more clusters can be added in accordance with the best marginal density fit and the shape of the intensity function across distance from the school is data-driven.
+   * **Introduction to MLFlow**
+      * Speaker: [Rafi Kurlanisk](https://www.linkedin.com/in/raphaelkurlansik/)
+      * Detail: MLflow is an open source project to manage the ML lifecycle, including experimentation, reproducibility, deployment, and a central model registry. The project is designed be agnostic to any particular ML library or framework, with APIs in multiple languages. In addition to discussing the motivation behind the project, we will cover the following features in Python and R:
+         * Show how to begin tracking model training runs with MLflow APIs. 
+         * Explore different deployment modalities ranging from batch to an online REST API. 
+         * How to promote and manage models running in production. 
 
 ### July 2020 : 
   * [Video Recording of Event](https://www.youtube.com/watch?v=Y_XzlSG0gM0)
@@ -24,7 +34,7 @@ Links to slides and other sites from Monthly Speaker Events hosted by DataPhilly
 ### August 2020
    * [Video Recording of Event](https://www.youtube.com/watch?v=XlaGkLWTGhQ)
    * **People Analytics:**
-      * Speakers: [Ben Attxix](https://www.linkedin.com/in/benattix/) and [Andrew Garfinkel](https://www.linkedin.com/in/andrew-garfinkel-8b820898/)
+      * Speakers: [Ben Attix](https://www.linkedin.com/in/benattix/) and [Andrew Garfinkel](https://www.linkedin.com/in/andrew-garfinkel-8b820898/)
       * Detail: People Analytics uses techniques (ranging from descriptive statistics to predictive analytics to experimental research) to help organizations uncover new insights, solve people problems, and direct actions. There are many business drivers and use cases for why a company would want to use people analytics, but there are also ethical considerations to take into account when using people's data. In this presentation, we will deep dive into the use case of employee attrition, explaining the business impact, data architecture to support the analysis, sample dashboards to analyze results, and lessons learned from implementation.
    * **How will know we are in Recovery?**
       * Speaker: [Michael Boldin](https://www.linkedin.com/in/michael-boldin-b1903874/)
