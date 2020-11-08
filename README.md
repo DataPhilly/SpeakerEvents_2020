@@ -14,7 +14,12 @@ Links to slides and other sites from Monthly Speaker Events hosted by DataPhilly
   * **Visualizing Deep Learning with Tensor Board.** 
     * Speaker: [Joe Papa](https://www.linkedin.com/in/mrjoepapa/).  
     * Detail: Tensorboard is a powerful visualization toolkit for deep learning research and development. Its visualization capabilities, once reserved for Tensorflow, are now natively supported by PyTorch.  
-    * [Slides](/pdf/July2020_JoePapa_TensorboardWithPyTorch.pdf).  
+    * [Slides](/pdf/July2020_JoePapa_TensorboardWithPyTorch.pdf). 
+  * **Self-Programming Artficial Intelligence**
+    * Speaker: [Kory Becker](https://www.linkedin.com/in/korybecker/)
+    * Detail: Is it possible for a computer program to write its own programs? While this kind of idea could seem far-fetched, it may actually be closer than we think. This presentation introduces "AI Programmer", a machine learning system, which can automatically generate full software programs requiring only minimal human guidance. The system uses genetic algorithms coupled with a tightly constrained programming language. We’ll cover an overview of the system design and see examples of its software-generation capabilities.
+    * [Publication](https://arxiv.org/abs/1709.05703)
+    
 
 ### August 2020
    * [Video Recording of Event](https://www.youtube.com/watch?v=XlaGkLWTGhQ)
